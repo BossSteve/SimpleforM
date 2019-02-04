@@ -1,0 +1,95 @@
+body{
+	background-color: black;
+}
+.container{
+	text-align: center;
+	background-color: black;
+
+}
+form{
+	margin-top: ;
+	border-radius:10px;
+
+}
+h2, h3{
+	color:white;
+	font-family: Arial;
+	font-size: 16px;
+}
+h2{
+	margin-right: 215px;
+}
+.name-labels{
+	margin-left:570px;
+}
+h3{
+	margin-right:90px;
+	font-weight: 5;
+	float:left;
+}
+.names{
+	border-radius: 10px;
+}
+.DateTime{
+	margin-left:560px;
+}
+#h2_bdate{
+	text-align: center;
+	margin-right: 310px;
+	font-size:15px;
+}
+#h2_gender{
+	text-align: center;
+	margin-right: 320px;
+	font-size:15px;
+}
+.radios{
+	margin-left:630px;
+	color:white;
+	font-size:18px;
+	font-family: arial;
+	font-weight: 5;
+}
+#h2_email{
+	margin-left:560px;
+	font-size:15px;
+}
+.Email_add{
+	margin-left:560px;
+	border-radius:10px;
+}
+.password{
+	margin-left:560px;
+	border-radius:10px;
+}
+#h2_pass{
+	margin-left:560px;
+	font-size:15px;
+}
+img{
+	width:200px;
+	left: auto;
+	margin-left: 590px;
+}
+hr{
+	width:380px;
+}
+.btn{
+	margin-top:20px;
+	width: 150px;
+	background-color: white;
+	color:black;
+	height: 30px;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Calibri;
+	border-radius: 10px;
+	margin-left: 800px;
+}
+.btn:hover{
+	background-color:gray;
+	-webkit-transition: background-color 2s; /* Safari */
+    transition: background-color 1s;
+	opacity: 0.8;
+	cursor: pointer;
+}
